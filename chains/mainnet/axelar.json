@@ -1,10 +1,10 @@
 {
     "chain_name": "axelar",
     "api": [
-        "ini-isi-pake-rpc-mainnet-lcd-axelar"
+        "https://rest.axelar.lava.build/lava-referer-9f807213-5444-4cbd-9ffa-955b7745dfb5/"
     ],
     "rpc": [
-        "ini-isi-pake-rpc-mainnet-rpc-axelar"
+        "https://rest.axelar.lava.build/lava-referer-9f807213-5444-4cbd-9ffa-955b7745dfb5/"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
